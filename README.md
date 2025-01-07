@@ -1,4 +1,16 @@
 
+/downloadRepository
+# Clone all repos using the script
+- python downloadrepo.py --file=repos.txt --all=true --localdir=/dev
+
+# Close single repository
+- python downloadrepo.py --file=repos.txt --one=node --localdir=/dev
+
+
+
+
+
+
 # process-excel
 - the goal is process a xlsx file with 12 columns and 1000 records and print the count in the console
 ## langs
@@ -20,4 +32,6 @@
     - rust:
     - go:
     - python:
+
+
 

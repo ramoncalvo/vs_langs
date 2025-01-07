@@ -1,0 +1,4 @@
+- node: git@github.com:ramoncalvo/vs_lang_node.git
+- rust: git@github.com:ramoncalvo/vs_lang_rust.git
+- go: git@github.com:ramoncalvo/vs_lang_go.git
+- python: git@github.com:ramoncalvo/vs_lang_py.git
